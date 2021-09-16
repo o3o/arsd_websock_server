@@ -1,0 +1,4 @@
+name "server"
+
+dependency "arsd-official:cgi" version="~>10.2.2"
+subConfiguration "arsd-official:cgi" "fastcgi"
